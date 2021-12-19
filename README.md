@@ -13,8 +13,9 @@ How to play:
   step 7: If a player is human type, put in the row of your action then press "Enter" and then put in the column of you action and press "Enter". Row and column must be valid to follow the game rules of Connect Four.
   
 To view experimental results:
-  Step 1: Download and run the ConnectFour_Experiments.py file (Must have ConnectFour.py and ConnectFour_Training.py files)
-
+  step 1: Download and run the ConnectFour_Experiments.py file (Must have ConnectFour.py and ConnectFour_Training.py files)
+  step 2: Experiment options will pull up in the console. Enter a corresponding value to the experiment you would like to run and press "Enter"
+  Resulting plot will diplay when they are ready
 
 Code used as reference for creation of the game files and NN:
   https://colab.research.google.com/drive/1JhOppwXwm47yk-AK7y7L5WTaaNDgCWXD?usp=sharing#scrollTo=LRHWGZJ9O6c1
